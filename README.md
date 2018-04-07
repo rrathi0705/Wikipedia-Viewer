@@ -3,8 +3,8 @@
 FreeCode Camp project 
 
 Using this wikipedia Viewer,You can search any article available on wikipedia.
- Important features are --
  
+ Important features are --
  
 1  It uses api available on freecodeCamp website Project.
 
@@ -12,8 +12,8 @@ Using this wikipedia Viewer,You can search any article available on wikipedia.
 
 3. It is also responsive.
  
- 
- Technology used
+Technology used
+
 1  HTML
   
 2  CSS
